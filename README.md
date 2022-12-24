@@ -57,4 +57,4 @@
   
   (각 삽입/삭제 명령 결과가 올바른지를 기준으로 채점)
 
-#### 채점에 사용된 데이터셋: [testcase.zip](https://github.com/yesslee/2022-File-Processing/blob/main/fileProcessing/testcases.zip)
+#### 채점에 사용된 데이터셋: [testcase.zip](https://github.com/yesslee/2022-FileProcessing/blob/main/fileProcessing/testcases.zip)
